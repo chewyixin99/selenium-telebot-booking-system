@@ -1,4 +1,4 @@
-# selenium-telebot-booking-system
+# SMU Facility Booking System Telebot
 Using telegram bot API and Selenium Webdriver to book a facility through SMU's Facility Booking System
 
 
